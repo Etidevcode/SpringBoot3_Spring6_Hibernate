@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-cruddemo-student-create" target="17" />
+      <module name="02-cruddemo-student-read" target="17" />
+      <module name="03-cruddemo-student-query-findAll" target="17" />
+      <module name="04-cruddemo-student-query-findByLastName" target="17" />
+      <module name="04-cruddemo-student-query-findByLastNamel" target="17" />
+      <module name="05-cruddemo-student-update" target="17" />
+      <module name="08-cruddemo-student-deleteAll" target="17" />
+      <module name="09-cruddemo-create-db-tables-automatically" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01-cruddemo-student-create" options="-parameters" />
+      <module name="02-cruddemo-student-read" options="-parameters" />
+      <module name="03-cruddemo-student-query-findAll" options="-parameters" />
+      <module name="04-cruddemo-student-query-findByLastName" options="-parameters" />
+      <module name="04-cruddemo-student-query-findByLastNamel" options="-parameters" />
+      <module name="05-cruddemo-student-update" options="-parameters" />
+      <module name="08-cruddemo-student-deleteAll" options="-parameters" />
+      <module name="09-cruddemo-create-db-tables-automatically" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-cruddemo-student-create/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-cruddemo-student-read/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-cruddemo-student-query-findAll/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-cruddemo-student-query-findByLastName/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-cruddemo-student-update/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-cruddemo-student-deleteAll/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-cruddemo-create-db-tables-automatically/src/main/java" charset="UTF-8" />
+  </component>
+</project>

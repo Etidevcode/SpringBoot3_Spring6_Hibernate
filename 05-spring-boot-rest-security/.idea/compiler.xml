@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="00-spring-boot-rest-security-employee-starter-code" target="17" />
+      <module name="01-spring-boot-rest-security-basic" target="17" />
+      <module name="02-spring-boot-rest-security-restrict-access-based-on-roles" target="17" />
+      <module name="03-spring-boot-rest-security-jdbc-plain-text" target="17" />
+      <module name="04-spring-boot-rest-security-jdbc-bcrypt" target="17" />
+      <module name="05-spring-boot-rest-security-jdbc-bcrypt-custom-table-names" target="17" />
+      <module name="08-spring-boot-rest-crud-employee-with-spring-data-jpa" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="00-spring-boot-rest-security-employee-starter-code" options="-parameters" />
+      <module name="01-spring-boot-rest-security-basic" options="-parameters" />
+      <module name="02-spring-boot-rest-security-restrict-access-based-on-roles" options="-parameters" />
+      <module name="03-spring-boot-rest-security-jdbc-plain-text" options="-parameters" />
+      <module name="04-spring-boot-rest-security-jdbc-bcrypt" options="-parameters" />
+      <module name="05-spring-boot-rest-security-jdbc-bcrypt-custom-table-names" options="-parameters" />
+      <module name="08-spring-boot-rest-crud-employee-with-spring-data-jpa" options="-parameters" />
+    </option>
+  </component>
+</project>
