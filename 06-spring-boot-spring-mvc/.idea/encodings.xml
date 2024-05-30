@@ -2,5 +2,15 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/01-thymeleafdemo-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-reading-html-form-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-adding-data-to-the-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-binding-request-params/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-getmapping-and-postmapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-form-data-binding-textfields/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-form-data-binding-dropdown-list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-form-data-binding-radio-buttons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-form-data-binding-checkboxes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-validationdemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-validationdemo-custom-validation-rule/src/main/java" charset="UTF-8" />
   </component>
 </project>
