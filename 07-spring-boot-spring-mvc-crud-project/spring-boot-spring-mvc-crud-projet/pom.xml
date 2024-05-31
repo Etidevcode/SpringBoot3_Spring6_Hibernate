@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.etidevcode.springdemo.mvc</groupId>
-	<artifactId>00-spring-boot-spring-mvc-crud-starter-code</artifactId>
+	<artifactId>spring-boot-spring-mvc-crud-projet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>00-spring-boot-spring-mvc-crud-starter-code</name>
+	<name>spring-boot-spring-mvc-crud-projet</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
