@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-spring-boot-spring-mvc-security-default/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-mvc-security-in-memory-users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-spring-mvc-security-custom-login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-spring-mvc-security-custom-login-form-show-error-message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-spring-boot-spring-mvc-security-custom-login-form-with-bootstrap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc-security-logout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-security-display-user-name-and-roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring-boot-spring-mvc-security-user-roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-spring-mvc-security-custom-access-denied-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-spring-mvc-security-display-content-based-on-user-roles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-spring-boot-spring-mvc-security-jdbc-plain-text/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-spring-boot-spring-mvc-security-jdbc-bcrypt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-spring-boot-spring-mvc-security-jdbc-bcrypt-custom-tables/src/main/java" charset="UTF-8" />
+  </component>
+</project>
