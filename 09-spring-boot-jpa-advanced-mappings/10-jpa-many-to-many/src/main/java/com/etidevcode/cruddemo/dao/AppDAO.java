@@ -3,6 +3,7 @@ package com.etidevcode.cruddemo.dao;
 import com.etidevcode.cruddemo.entity.Course;
 import com.etidevcode.cruddemo.entity.Instructor;
 import com.etidevcode.cruddemo.entity.InstructorDetail;
+import com.etidevcode.cruddemo.entity.Student;
 
 import java.util.List;
 
@@ -27,4 +28,18 @@ public interface AppDAO {
 	void update(Course tempCourse);
 
 	Course findCourseById(int theId);
+
+	void deleteCourseById(int theId);
+
+	void save(Course theCourse);
+
+	Course findCourseAndReviewByCourseId(int theId);
+
+	Course findCourseAndStudentByCourseId(int theId);
+
+	Student findStudentAndCoursesByStudentId(int theId);
+
+	void update(Student tempStudent);
+
+	void deleteStudentById(int theId);
 }

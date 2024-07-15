@@ -6,5 +6,9 @@
     <file url="file://$PROJECT_DIR$/03-jpa-one-to-many/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-jpa-one-to-many-lazy/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-jpa-one-to-many-lazy-find-instructor-with-courses-join-fetch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-jpa-one-to-many-update-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-jpa-one-to-many-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-jpa-one-to-many-uni-directional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-jpa-many-to-many/src/main/java" charset="UTF-8" />
   </component>
 </project>

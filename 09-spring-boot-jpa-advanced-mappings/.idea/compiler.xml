@@ -14,6 +14,10 @@
       <module name="03-jpa-one-to-many" target="17" />
       <module name="05-jpa-one-to-many-lazy" target="17" />
       <module name="06-jpa-one-to-many-lazy-find-instructor-with-courses-join-fetch" target="17" />
+      <module name="07-jpa-one-to-many-update-instructor" target="17" />
+      <module name="08-jpa-one-to-many-delete" target="17" />
+      <module name="09-jpa-one-to-many-uni-directional" target="17" />
+      <module name="10-jpa-many-to-many" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +27,10 @@
       <module name="03-jpa-one-to-many" options="-parameters" />
       <module name="05-jpa-one-to-many-lazy" options="-parameters" />
       <module name="06-jpa-one-to-many-lazy-find-instructor-with-courses-join-fetch" options="-parameters" />
+      <module name="07-jpa-one-to-many-update-instructor" options="-parameters" />
+      <module name="08-jpa-one-to-many-delete" options="-parameters" />
+      <module name="09-jpa-one-to-many-uni-directional" options="-parameters" />
+      <module name="10-jpa-many-to-many" options="-parameters" />
     </option>
   </component>
 </project>
